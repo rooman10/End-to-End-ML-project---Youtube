@@ -12,3 +12,6 @@ data = pd.read_csv('winequality-red.csv')
 
 print(data.head())
 
+del(data)
+
+## Commitment is real. Commit #2 to further explore github and version control!
