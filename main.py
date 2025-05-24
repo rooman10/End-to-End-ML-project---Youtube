@@ -1,0 +1,1 @@
+from src.projectDefault.logging import loggerlogger.info("This is our custom log!")## another way to do this would be to put the logging __init__.py instructions## into the mlproj __init__.py file, so that you call from projectDefault ## import logger (directly) instead of going through src.projectDefault.logging
