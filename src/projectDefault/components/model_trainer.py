@@ -1,11 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Mon May 26 14:17:05 2025
-
-@author: harshadahake
-"""
-
 import pandas as pd
 import os
 from src.projectDefault.logging import logger
